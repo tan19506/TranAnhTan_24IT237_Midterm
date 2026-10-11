@@ -50,4 +50,4 @@ make clean
 
 ## GitHub repository
 
-https://github.com/tan19506/Midterm_LTHT_TranAnhTan_24IT237
+https://github.com/tan19506/TranAnhTan_24IT237_Midterm
