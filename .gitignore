@@ -1,0 +1,7 @@
+# Compiled files
+myls
+*.o
+*.exe
+*.out
+core
+core.*
