@@ -47,10 +47,7 @@ make clean
 - `Makefile`: build rules
 - `.gitignore`: ignores compiled artifacts
 
-## Notes
-
-This is a student implementation, not a complete replacement for the system `ls`. Exact output formatting and NetBSD-specific file types may vary by operating system. The project should be tested against the supplied manual before submission.
 
 ## GitHub repository
 
-Add your actual GitHub repository URL here before submission.
+https://github.com/tan19506/Midterm_LTHT_TranAnhTan_24IT237
